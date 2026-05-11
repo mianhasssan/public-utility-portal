@@ -1,7 +1,5 @@
 <div align="center">
 
-![Public Utility Banner](public_utility_banner_1778513827516.png)
-
 # 🌐 Public Utility Helper
 
 **A Modern, Responsive Portal for Streamlining Public Service Management**
